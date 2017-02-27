@@ -1,0 +1,4 @@
+Multitple Item Multiple Period Lot Sizing Problem with Setups.
+
+Implementation of a Benders decomposition-based algorithm for the MIMPLS.
+
